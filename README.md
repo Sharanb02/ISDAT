@@ -6,7 +6,7 @@ This toolbox was a experimental project to try and learn to work with ICESat-2 L
 * Created 3 month snapshots of land ice heights data obtained from the ATL06 Data product, over the four Himalayan regions
 * Plotted and observed subplots for two different three month snapshots
 * Automated data download to some extent
-* Also tried and created Across track slopes for each beam pair and observed the plots.
+* Also tried and created Across track slope plots for each beam pair and observed the plots.
 
 ## Dependencies:
 1. Geopandas
